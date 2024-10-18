@@ -17,7 +17,7 @@ describe('restoreNames', () => {
     fullName: 'John Dou',
   };
 
-  it('should a function', () => {
+  it('should be a function', () => {
     expect(restoreNames).toBeInstanceOf(Function);
   });
 
